@@ -1,0 +1,7 @@
+/mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-api-practise/rust-api-practise/rust-crud/target/release/deps/libfutures_sink-71f585249bf7ed8c.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-sink-0.3.31/src/lib.rs
+
+/mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-api-practise/rust-api-practise/rust-crud/target/release/deps/libfutures_sink-71f585249bf7ed8c.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-sink-0.3.31/src/lib.rs
+
+/mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-api-practise/rust-api-practise/rust-crud/target/release/deps/futures_sink-71f585249bf7ed8c.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-sink-0.3.31/src/lib.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-sink-0.3.31/src/lib.rs:

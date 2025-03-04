@@ -1,0 +1,11 @@
+/mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-api-practise/rust-api-practise/rust-crud/target/release/deps/libpostgres_types-77bfd2e4ad795d8b.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/pg_lsn.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/private.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/special.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/type_gen.rs
+
+/mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-api-practise/rust-api-practise/rust-crud/target/release/deps/libpostgres_types-77bfd2e4ad795d8b.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/pg_lsn.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/private.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/special.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/type_gen.rs
+
+/mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-api-practise/rust-api-practise/rust-crud/target/release/deps/postgres_types-77bfd2e4ad795d8b.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/pg_lsn.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/private.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/special.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/type_gen.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/pg_lsn.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/private.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/special.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/type_gen.rs:

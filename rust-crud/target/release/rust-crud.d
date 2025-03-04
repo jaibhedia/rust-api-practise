@@ -1,0 +1,1 @@
+/mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-api-practise/rust-api-practise/rust-crud/target/release/rust-crud: /mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-api-practise/rust-api-practise/rust-crud/src/main.rs
